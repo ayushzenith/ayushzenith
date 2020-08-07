@@ -2,7 +2,7 @@
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushzenith&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)
 
-![Ayush's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushzenith&layout=compact)
+![Ayush's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushzenith&layout=compact&theme=tokyonight)
 
 
 <!--
