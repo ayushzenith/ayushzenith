@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushzenith)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushzenith)]
 
 
 <!--
