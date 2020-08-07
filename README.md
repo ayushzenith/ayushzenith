@@ -1,5 +1,7 @@
 # Hewwo 👋 
 
+🤔🤔🤔🤔🤔🤔Random Thought: Why is it Hello World! and not Goodbye World¡🤔🤔🤔🤔🤔🤔
+
 - 🔭 I’m currently working on a lot... Even I don't know what I doink anymore...
 - 🌱 I’m currently learning how to high school, how to hooman, how to throw cards, how write code with no errors, tf/keras, etc.
 - 👯 I’m looking to collaborate on a cool open-source python project?
