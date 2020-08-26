@@ -11,7 +11,7 @@
 - 😄 Wanna learn about me? [ayushzenith.tech](https://ayushzenith.tech/)
 - ⚡ Fun fact: I like sleep... and I have 10 toes... pweese be my fren
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ayushzenith/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushzenith&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="Ayush's github stats" />
 </a>
 <a href="https://github.com/ayushzenith/">
