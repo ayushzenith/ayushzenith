@@ -1,6 +1,6 @@
 # Hewwo 👋 
 
-🤔🤔🤔🤔🤔🤔Random Thought: Why is it Hello World! and not Goodbye World¡🤔🤔🤔🤔🤔🤔
+🤔🤔🤔🤔🤔🤔 Random Thought: Why is it Hello World! and not Goodbye World¡🤔🤔🤔🤔🤔🤔
 
 - 🔭 I’m currently working on a lot... Even I don't know what I doink anymore...
 - 🌱 I’m currently learning how to high school, how to hooman, how to throw cards, how write code with no errors, speedcube, tf/keras, etc.
