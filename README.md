@@ -3,13 +3,13 @@
 🤔🤔🤔🤔🤔🤔 Random Thought: Why is it Hello World! and not Goodbye World¡🤔🤔🤔🤔🤔🤔
 
 - 🔭 I’m currently working on a lot... Even I don't know what I doink anymore...
-- 🌱 I’m currently learning how to high school, how to hooman, how to throw cards, how write code with no errors, speedcube, tf/keras, etc.
+- 🌱 I’m currently learning how to college, hooman, throw cards, speedcube, tf/keras, etc.
 - 👯 I’m looking to collaborate on a cool open-source python project?
-- 🤔 I’m looking for help with a lot... For starters how to high school, how to hooman, how to throw cards, how write code with no errors... I can fax the rest of the list if interested...
+- 🤔 I’m looking for help with a lot...
 - 💬 Ask me about anything? I doubt you will get the answer you are looking for tho...
 - 📫 How to reach me: [here](https://github.com/ayushzenith/ayushzenith/issues)
 - 😄 Wanna learn about me? [ayushzenith.tech](https://ayushzenith.tech/)
-- ⚡ Fun fact: I like sleep... and I have 10 toes... pweese be my fren
+- ⚡ Fun fact: I like sleep...
 
 <a href="https://github.com/ayushzenith/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushzenith&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="Ayush's github stats" />
