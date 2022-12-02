@@ -1,4 +1,4 @@
-# Hewwo 👋 
+# Hello 👋 
 
 🤔🤔🤔🤔🤔🤔 Random Thought: Why is it Hello World! and not Goodbye World¡🤔🤔🤔🤔🤔🤔
 
