@@ -1,6 +1,6 @@
 # Hello 👋 
 
-🤔🤔🤔🤔🤔🤔 Random Thought: Why is it Hello World! and not Goodbye World¡🤔🤔🤔🤔🤔🤔
+
 
 - 🔭 I’m currently working on a lot... Even I don't know what I doink anymore... 
 - 🌱 I’m currently learning how to college, hoooman, throw cards, speedcube, tf/keras, etc.
@@ -19,6 +19,8 @@
 
 <!--
 **ayushzenith/ayushzenith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🤔🤔🤔🤔🤔🤔 Random Thought: Why is it Hello World! and not Goodbye World¡🤔🤔🤔🤔🤔🤔
 
 Here are some ideas to get you started:
 
