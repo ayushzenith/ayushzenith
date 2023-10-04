@@ -1,15 +1,8 @@
 # Hello 👋 
 
-
-
-- 🔭 I’m currently working on a lot... Even I don't know what I doink anymore... 
-- 🌱 I’m currently learning how to college, hoooman, throw cards, speedcube, tf/keras, etc.
-- 👯 I’m looking to collaborate on a cool open-source python project?
-- 🤔 I’m looking for help with a lot...
 - 💬 Ask me about anything? I doubt you will get the answer you are looking for tho...
 - 📫 How to reach me: [here](https://github.com/ayushzenith/ayushzenith/issues)
 - 😄 Wanna learn about me? [ayushzenith.me](https://ayushzenith.me/)
-- ⚡ Fun fact: I like sleep...
 
 <a href="https://github.com/ayushzenith/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushzenith&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="Ayush's github stats" />
