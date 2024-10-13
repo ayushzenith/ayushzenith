@@ -1,6 +1,10 @@
 # Hello 👋 
 
-- 💬 Ask me about anything? I doubt you will get the answer you are looking for tho...
+Some exciting work coming soon from me:
+- Synthetic Dataset Quality Metric to score the quality of your synthetic data! - Paper coming soon to a conference near you (hopefully) 
+- 
+
+- 💬 Ask me about anything?
 - 📫 How to reach me: [here](https://github.com/ayushzenith/ayushzenith/issues)
 - 😄 Wanna learn about me? [ayushzenith.me](https://ayushzenith.me/)
 
