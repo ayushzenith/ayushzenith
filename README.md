@@ -2,9 +2,9 @@
 
 Some exciting work coming soon from me:
 - Synthetic Dataset Quality Metric to score the quality of your synthetic data! - Paper coming soon to a conference near you (hopefully) 
-- 
+- Currently Researching Vision Language Models with Robotics for perception, mapping, communication, planning, & control
 
-- 💬 Ask me about anything?
+Other Stuff:
 - 📫 How to reach me: [here](https://github.com/ayushzenith/ayushzenith/issues)
 - 😄 Wanna learn about me? [ayushzenith.me](https://ayushzenith.me/)
 
