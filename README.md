@@ -1,4 +1,6 @@
-# Hello 👋 
+# Hiii 👋 
+
+Currently: AI for Spatial Reasoning @ Tera AI
 
 Some exciting work coming soon from me:
 - Synthetic Dataset Quality Metric to score the quality of your synthetic data! - Paper coming soon to a conference near you (hopefully) @ [AFRL](https://www.afrl.af.mil/RI/)
