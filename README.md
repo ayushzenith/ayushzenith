@@ -3,7 +3,12 @@
 Currently: AI for Spatial Reasoning @ [Tera AI](https://tera-ai.com)
 
 Some previous cool work I was doing:
-- Synthetic Dataset Quality Metric to score the quality of your synthetic data! @ [AFRL](https://www.afrl.af.mil/RI/) - SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation (In Review 2025)
+- Tardis Stride @ [Tera AI](https://tera-ai.com)
+    - [Paper](https://arxiv.org/abs/2506.11302)
+    - [Blog](https://www.tera-ai.com/blog/tardis)
+    - [Code](https://github.com/tera-ai/tardis)
+    - [Dataset](https://huggingface.co/datasets/Tera-AI/STRIDE)
+- SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation (In Review 2025)! @ [AFRL](https://www.afrl.af.mil/RI/)
     - [Paper]()
     - [Code](https://github.com/ayushzenith/SDQM/)
 - Researching Vision Language Models with Robotics for perception, mapping, communication, planning, & control @ [GRAIL](https://www.khoury.northeastern.edu/home/lsw/grail.html)
