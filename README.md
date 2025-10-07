@@ -3,7 +3,7 @@
 Currently: AI for Spatial Reasoning @ Tera AI
 
 Some exciting work coming soon from me:
-- Synthetic Dataset Quality Metric to score the quality of your synthetic data! - Paper coming soon to a conference near you (hopefully) @ [AFRL](https://www.afrl.af.mil/RI/)
+- Synthetic Dataset Quality Metric to score the quality of your synthetic data! @ [AFRL](https://www.afrl.af.mil/RI/)
 - Researching Vision Language Models with Robotics for perception, mapping, communication, planning, & control @ [GRAIL](https://www.khoury.northeastern.edu/home/lsw/grail.html)
 
 Other Stuff:
