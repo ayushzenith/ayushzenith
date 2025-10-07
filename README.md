@@ -3,7 +3,7 @@
 Currently: AI for Spatial Reasoning @ [Tera AI](https://tera-ai.com)
 
 Some previous cool work I was doing:
-- Tardis Stride @ [Tera AI](https://tera-ai.com)
+- TARDIS STRIDE @ [Tera AI](https://tera-ai.com)
     - [Paper](https://arxiv.org/abs/2506.11302)
     - [Blog](https://www.tera-ai.com/blog/tardis)
     - [Code](https://github.com/tera-ai/tardis)
