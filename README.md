@@ -11,7 +11,9 @@ Some previous cool work I was doing:
 - SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation (In Review 2025)! @ [AFRL](https://www.afrl.af.mil/RI/)
     - [Paper]()
     - [Code](https://github.com/ayushzenith/SDQM/)
+    - Under Advisement: Dr. Jing Lin
 - Researching Vision Language Models with Robotics for perception, mapping, communication, planning, & control @ [GRAIL](https://www.khoury.northeastern.edu/home/lsw/grail.html)
+    - Under Advisement: [Prof. Lawson L.S. Wong](https://www.ccs.neu.edu/home/lsw/)
 
 Other Stuff:
 - 📫 How to reach me: [here](https://github.com/ayushzenith/ayushzenith/issues)
