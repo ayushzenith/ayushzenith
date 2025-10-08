@@ -1,8 +1,8 @@
 # Hiii 👋 
 
-Currently: AI for Spatial Reasoning @ [Tera AI](https://tera-ai.com)
+Currently: Building Foundational AI Models @ [Tera AI](https://tera-ai.com)
 
-Some previous cool work I was doing:
+Some cool work from me recently:
 - TARDIS STRIDE @ [Tera AI](https://tera-ai.com)
     - [Paper](https://arxiv.org/abs/2506.11302)
     - [Blog](https://www.tera-ai.com/blog/tardis)
