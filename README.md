@@ -9,7 +9,7 @@ Some cool work from me recently:
     - [Code](https://github.com/tera-ai/tardis)
     - [Dataset](https://huggingface.co/datasets/Tera-AI/STRIDE)
 - SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation (In Review 2025)! @ [AFRL](https://www.afrl.af.mil/RI/)
-    - [Paper]()
+    - [Paper](https://arxiv.org/abs/2510.06596)
     - [Code](https://github.com/ayushzenith/SDQM/)
     - Under Advisement: Dr. Jing Lin
 - Researching Vision Language Models with Robotics for perception, mapping, communication, planning, & control @ [GRAIL](https://www.khoury.northeastern.edu/home/lsw/grail.html)
