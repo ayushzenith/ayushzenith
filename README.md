@@ -1,6 +1,6 @@
 # Hiii 👋 
 
-Currently: Building Foundational AI Models @ [Tera AI](https://tera-ai.com)
+Currently: Building Foundational AI Models that work IRL and do cool shit @ [Tera AI](https://tera-ai.com)
 
 Some cool work from me recently:
 - TARDIS STRIDE @ [Tera AI](https://tera-ai.com)
