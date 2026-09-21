@@ -8,7 +8,7 @@ Some cool work from me recently:
     - [Blog](https://www.tera-ai.com/blog/tardis)
     - [Code](https://github.com/tera-ai/tardis)
     - [Dataset](https://huggingface.co/datasets/Tera-AI/STRIDE)
-- SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation (In Review 2025)! @ [AFRL](https://www.afrl.af.mil/RI/)
+- SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation (SPIE JEI 2026)! @ [AFRL](https://www.afrl.af.mil/RI/)
     - [Paper](https://arxiv.org/abs/2510.06596)
     - [Code](https://github.com/ayushzenith/SDQM/)
     - Under Advisement: Dr. Jing Lin
